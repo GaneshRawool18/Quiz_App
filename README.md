@@ -1,3 +1,3 @@
-# Quiz_App
+# quiz_app
 
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+A new Flutter project.
